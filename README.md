@@ -2,9 +2,6 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-ait-gaba-4b454519a/
 
-[![mohammedaitgaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedaitgaba)](https://github.com/mohammedaitgaba/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaitgaba&layout=compact)](https://github.com/mohammedaitgaba/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedaitgaba&show_icons=true&theme=transparent)
 <!--
 
 <!--
