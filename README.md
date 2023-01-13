@@ -2,6 +2,8 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-ait-gaba-4b454519a/
 
+<p >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedaitgaba&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohammedaitgaba" />
 <!--
 
 <!--
