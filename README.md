@@ -3,7 +3,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-ait-gaba-4b454519a/
 
 <p >
-(https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaitgaba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 <!--
